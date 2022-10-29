@@ -1,0 +1,1 @@
+web: gunicorn hngi9_backend.wsgi
